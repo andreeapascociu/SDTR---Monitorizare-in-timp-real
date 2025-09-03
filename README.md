@@ -104,7 +104,7 @@ Exemplu de mesaj JSON trimis prin Bluetooth:
   "sats": 8,
   "speed": 13.2
 }
-
+```
 ## Analiza de timp real
 
 - GPS furnizează date la **1 Hz**  
